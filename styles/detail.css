@@ -1,0 +1,66 @@
+﻿.header-content {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-top: 60px;
+    align-items: center;
+}
+.main-wrapper {
+    overflow: hidden;
+    max-width: 1200px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+.container {
+    display: flex;
+    padding: 5px 20px;
+}
+.mota {
+    margin-top: 20px;
+}
+.sidebar-1{
+    width: 65%;
+}
+.sidebar-2{
+    width:35%;
+    margin-left: 20px;
+}
+.anhr {
+    width: 100%;
+    height: 95%;
+    padding: 10px;
+    margin-top: 60px;
+    align-items: center;
+}
+picture .anhl {
+    width: 100%;
+    height: 100%;
+}
+figcaption .Image {
+    text-align: center;
+}
+.date {
+    margin-left: 20px;
+}
+.title-detail{
+    margin-bottom:20px;
+}
+/* Mobile: width <740px */
+
+@media only screen and (max-width: 46.1875em) {
+    .sidebar-2{
+        display: none;
+    }
+    .sidebar-1 {
+        width: 100%;
+    }
+}
+
+/* Tablet: width >=740px and width <1024px */
+@media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {
+}
+/* Mobile và tablet width <1024px */
+@media only screen and (max-width: 63.9375em) {
+}

@@ -1,0 +1,54 @@
+﻿
+/* Mobile: width <740px */
+
+@media only screen and (max-width: 46.1875em) {
+    .home-title {
+        font-size: 14px;
+    }
+
+    .col-bao {
+        width: 50%;
+        padding: 5px 10px;
+    }
+
+    .card-bao {
+        display: flex;
+        border: none;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #e5e5e5;
+    }
+
+    .card-header {
+        width: 60%;
+        object-fit: cover;
+        height: 110px;
+    }
+
+    .card-image {
+        height: 100%;
+        border-radius: 5px;
+    }
+
+    .bao-info {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        width: 100%;
+    }
+}
+
+/* Màn hình máy tính*/
+@media only screen and (min-width: 63.9375em) {
+    .col-bao {
+        width: 33.33%;
+    }
+
+    .card-image {
+        height: 200px;
+    }
+
+    .header-middle-center {
+        padding: 0;
+    }
+}

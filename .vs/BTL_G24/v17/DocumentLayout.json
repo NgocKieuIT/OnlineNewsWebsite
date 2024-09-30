@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BTL_G24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|D:\\BTL_G24\\webbaodt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:webbaodt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|D:\\BTL_G24\\styles\\home_responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:styles\\home_responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|D:\\BTL_G24\\styles\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:styles\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|D:\\BTL_G24\\script\\signinsignup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:script\\signinsignup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|d:\\btl_g24\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|D:\\BTL_G24\\aspx\\signinsignup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:aspx\\signinsignup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|d:\\btl_g24\\aspx\\danhsach.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:aspx\\danhsach.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|d:\\btl_g24\\aspx\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:aspx\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|D:\\BTL_G24\\aspx\\signinsignup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:aspx\\signinsignup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|D:\\BTL_G24\\aspx\\quanly.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:aspx\\quanly.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|D:\\BTL_G24\\styles\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:styles\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|d:\\btl_g24\\styles\\signinsignup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:styles\\signinsignup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|D:\\BTL_G24\\aspx\\quanly.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:aspx\\quanly.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|D:\\BTL_G24\\aspx\\searchpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:aspx\\searchpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|D:\\BTL_G24\\aspx\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:aspx\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|D:\\BTL_G24\\styles\\quanly.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:styles\\quanly.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|D:\\BTL_G24\\styles\\detail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:styles\\detail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|D:\\BTL_G24\\styles\\global_responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:styles\\global_responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|D:\\BTL_G24\\aspx\\thoisu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:aspx\\thoisu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|D:\\BTL_G24\\aspx\\searchpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:aspx\\searchpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|D:\\BTL_G24\\aspx\\detail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97FCE873-D294-41B6-B028-BEEB476DC20B}|BTL_G24.csproj|solutionrelative:aspx\\detail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignInSignUp.aspx",
+              "DocumentMoniker": "D:\\BTL_G24\\aspx\\SignInSignUp.aspx",
+              "RelativeDocumentMoniker": "aspx\\SignInSignUp.aspx",
+              "ToolTip": "D:\\BTL_G24\\aspx\\SignInSignUp.aspx",
+              "RelativeToolTip": "aspx\\SignInSignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-25T03:34:32.994Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebBaoDT.aspx",
+              "DocumentMoniker": "D:\\BTL_G24\\WebBaoDT.aspx",
+              "RelativeDocumentMoniker": "WebBaoDT.aspx",
+              "ToolTip": "D:\\BTL_G24\\WebBaoDT.aspx",
+              "RelativeToolTip": "WebBaoDT.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-31T14:37:57.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Danhsach.aspx",
+              "DocumentMoniker": "D:\\BTL_G24\\aspx\\Danhsach.aspx",
+              "RelativeDocumentMoniker": "aspx\\Danhsach.aspx",
+              "ToolTip": "D:\\BTL_G24\\aspx\\Danhsach.aspx",
+              "RelativeToolTip": "aspx\\Danhsach.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-01T06:54:41.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "D:\\BTL_G24\\aspx\\HomePage.aspx",
+              "RelativeDocumentMoniker": "aspx\\HomePage.aspx",
+              "ToolTip": "D:\\BTL_G24\\aspx\\HomePage.aspx",
+              "RelativeToolTip": "aspx\\HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-19T10:18:32.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "home_responsive.css",
+              "DocumentMoniker": "D:\\BTL_G24\\styles\\home_responsive.css",
+              "RelativeDocumentMoniker": "styles\\home_responsive.css",
+              "ToolTip": "D:\\BTL_G24\\styles\\home_responsive.css",
+              "RelativeToolTip": "styles\\home_responsive.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-31T16:24:26.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\BTL_G24\\data\\User.cs",
+              "RelativeDocumentMoniker": "data\\User.cs",
+              "ToolTip": "D:\\BTL_G24\\data\\User.cs",
+              "RelativeToolTip": "data\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:46:46.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignInSignUp.js",
+              "DocumentMoniker": "D:\\BTL_G24\\script\\SignInSignUp.js",
+              "RelativeDocumentMoniker": "script\\SignInSignUp.js",
+              "ToolTip": "D:\\BTL_G24\\script\\SignInSignUp.js",
+              "RelativeToolTip": "script\\SignInSignUp.js",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-31T16:29:17.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.css",
+              "DocumentMoniker": "D:\\BTL_G24\\styles\\main.css",
+              "RelativeDocumentMoniker": "styles\\main.css",
+              "ToolTip": "D:\\BTL_G24\\styles\\main.css",
+              "RelativeToolTip": "styles\\main.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-31T15:38:11.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignInSignUp.aspx.cs",
+              "DocumentMoniker": "D:\\BTL_G24\\aspx\\SignInSignUp.aspx.cs",
+              "RelativeDocumentMoniker": "aspx\\SignInSignUp.aspx.cs",
+              "ToolTip": "D:\\BTL_G24\\aspx\\SignInSignUp.aspx.cs",
+              "RelativeToolTip": "aspx\\SignInSignUp.aspx.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowE4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T05:42:22.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuanLy.aspx",
+              "DocumentMoniker": "D:\\BTL_G24\\aspx\\QuanLy.aspx",
+              "RelativeDocumentMoniker": "aspx\\QuanLy.aspx",
+              "ToolTip": "D:\\BTL_G24\\aspx\\QuanLy.aspx",
+              "RelativeToolTip": "aspx\\QuanLy.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-31T16:26:16.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignInSignUp.css",
+              "DocumentMoniker": "D:\\BTL_G24\\styles\\SignInSignUp.css",
+              "RelativeDocumentMoniker": "styles\\SignInSignUp.css",
+              "ToolTip": "D:\\BTL_G24\\styles\\SignInSignUp.css",
+              "RelativeToolTip": "styles\\SignInSignUp.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-01T06:37:23.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Global.css",
+              "DocumentMoniker": "D:\\BTL_G24\\styles\\Global.css",
+              "RelativeDocumentMoniker": "styles\\Global.css",
+              "ToolTip": "D:\\BTL_G24\\styles\\Global.css",
+              "RelativeToolTip": "styles\\Global.css",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAACMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-31T15:53:18.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SearchPage.aspx",
+              "DocumentMoniker": "D:\\BTL_G24\\aspx\\SearchPage.aspx",
+              "RelativeDocumentMoniker": "aspx\\SearchPage.aspx",
+              "ToolTip": "D:\\BTL_G24\\aspx\\SearchPage.aspx",
+              "RelativeToolTip": "aspx\\SearchPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-31T16:26:23.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuanLy.aspx.cs",
+              "DocumentMoniker": "D:\\BTL_G24\\aspx\\QuanLy.aspx.cs",
+              "RelativeDocumentMoniker": "aspx\\QuanLy.aspx.cs",
+              "ToolTip": "D:\\BTL_G24\\aspx\\QuanLy.aspx.cs",
+              "RelativeToolTip": "aspx\\QuanLy.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T01:31:44.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomePage.aspx.cs",
+              "DocumentMoniker": "D:\\BTL_G24\\aspx\\HomePage.aspx.cs",
+              "RelativeDocumentMoniker": "aspx\\HomePage.aspx.cs",
+              "ToolTip": "D:\\BTL_G24\\aspx\\HomePage.aspx.cs",
+              "RelativeToolTip": "aspx\\HomePage.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T01:37:10.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuanLy.css",
+              "DocumentMoniker": "D:\\BTL_G24\\styles\\QuanLy.css",
+              "RelativeDocumentMoniker": "styles\\QuanLy.css",
+              "ToolTip": "D:\\BTL_G24\\styles\\QuanLy.css",
+              "RelativeToolTip": "styles\\QuanLy.css",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-31T16:23:58.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "detail.css",
+              "DocumentMoniker": "D:\\BTL_G24\\styles\\detail.css",
+              "RelativeDocumentMoniker": "styles\\detail.css",
+              "ToolTip": "D:\\BTL_G24\\styles\\detail.css",
+              "RelativeToolTip": "styles\\detail.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-31T16:24:12.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Global_responsive.css",
+              "DocumentMoniker": "D:\\BTL_G24\\styles\\Global_responsive.css",
+              "RelativeDocumentMoniker": "styles\\Global_responsive.css",
+              "ToolTip": "D:\\BTL_G24\\styles\\Global_responsive.css",
+              "RelativeToolTip": "styles\\Global_responsive.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-31T17:33:42.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Detail.aspx",
+              "DocumentMoniker": "D:\\BTL_G24\\aspx\\Detail.aspx",
+              "RelativeDocumentMoniker": "aspx\\Detail.aspx",
+              "ToolTip": "D:\\BTL_G24\\aspx\\Detail.aspx",
+              "RelativeToolTip": "aspx\\Detail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-31T15:37:56.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SearchPage.aspx.cs",
+              "DocumentMoniker": "D:\\BTL_G24\\aspx\\SearchPage.aspx.cs",
+              "RelativeDocumentMoniker": "aspx\\SearchPage.aspx.cs",
+              "ToolTip": "D:\\BTL_G24\\aspx\\SearchPage.aspx.cs",
+              "RelativeToolTip": "aspx\\SearchPage.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:26:21.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThoiSu.aspx",
+              "DocumentMoniker": "D:\\BTL_G24\\aspx\\ThoiSu.aspx",
+              "RelativeDocumentMoniker": "aspx\\ThoiSu.aspx",
+              "ToolTip": "D:\\BTL_G24\\aspx\\ThoiSu.aspx",
+              "RelativeToolTip": "aspx\\ThoiSu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-31T16:26:32.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
